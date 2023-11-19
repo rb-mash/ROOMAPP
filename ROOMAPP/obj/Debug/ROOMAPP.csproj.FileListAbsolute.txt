@@ -1,0 +1,11 @@
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\bin\Debug\ROOMAPP.exe.config
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\bin\Debug\ROOMAPP.exe
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\bin\Debug\ROOMAPP.pdb
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\obj\Debug\ROOMAPP.csproj.AssemblyReference.cache
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\obj\Debug\ROOMAPP.Login.resources
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\obj\Debug\ROOMAPP.Properties.Resources.resources
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\obj\Debug\ROOMAPP.csproj.GenerateResource.cache
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\obj\Debug\ROOMAPP.csproj.CoreCompileInputs.cache
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\obj\Debug\ROOMAPP.exe
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\obj\Debug\ROOMAPP.pdb
+C:\Users\farai\Onedrive - 2\OneDrive\Documents\2nd Year\2nd Semester\Computer Programming 2\PROJECTS\ROOMAPP\ROOMAPP\obj\Debug\ROOMAPP.Form1.resources
